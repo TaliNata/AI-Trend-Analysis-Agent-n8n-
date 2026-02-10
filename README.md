@@ -35,7 +35,7 @@ Trigger (Cron)
 → Top N Trends
 → LLM Interpretation
 → Post-Filter
-→ Output (Telegram / Report)
+→ Output (Telegram Send message / Notion Report)
 
 ---
 
@@ -96,7 +96,10 @@ News API
 
 Cron
 
-Telegram Bot API (опционально)
+Telegram Bot API 
+
+Notion
+
 
 ---
 
