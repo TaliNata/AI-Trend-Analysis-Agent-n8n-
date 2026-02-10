@@ -36,6 +36,7 @@ Trigger (Cron)
 → LLM Interpretation
 → Post-Filter
 → Output (Telegram Send message / Notion Report)
+Error trigger workflow
 
 ---
 
