@@ -1,0 +1,1 @@
+# AI-Trend-Analysis-Agent-n8n-
