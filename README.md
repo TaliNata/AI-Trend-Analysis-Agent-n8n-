@@ -6,6 +6,11 @@ Production-ready AI-агент для автоматического анали�
 
 ---
 
+<img width="1674" height="457" alt="Workflow Screenshot AI-Trend-Analysis-Agent-n8n" src="https://github.com/user-attachments/assets/4b93c04e-6ed6-4eeb-816a-c9d861ab8c99" />
+
+
+---
+
 ## Основные возможности
 
 - Нормализация данных из внешних источников (News API / соцсети);
